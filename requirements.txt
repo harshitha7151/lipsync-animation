@@ -1,5 +1,6 @@
+streamlit
 librosa
 moviepy
 opencv-python
 numpy
-matplotlib
+
